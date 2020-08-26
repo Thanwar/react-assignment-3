@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 function Hi() {
-  return <div className={styling}> 
+  return <div className="styling"> 
     <strong>Hello Thanwar</strong>
     <br />
     <h2>unordered list</h2>
