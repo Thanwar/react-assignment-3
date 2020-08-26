@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './index.css';
 
 function Hi() {
-  return <div> 
+  return <div className={styling}> 
     <strong>Hello Thanwar</strong>
     <br />
     <h2>unordered list</h2>
@@ -13,7 +14,7 @@ function Hi() {
       <li>assignment 3</li>
     </ul>
     <br />
-    <P>2+2={2+2}</P>
+    <h2>2+2={2+2}</h2>
     </div>;
 }
 
