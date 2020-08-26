@@ -4,15 +4,15 @@ import ReactDOM from 'react-dom';
 function Hi() {
   return <div> 
     <strong>Hello Thanwar</strong>
-    <br>
+    <br />
     <h2>unordered list</h2>
-    <br>
+    <br />
     <ul>
       <li>student</li>
       <li>learning react</li>
       <li>assignment 3</li>
     </ul>
-    <br>
+    <br />
     <P>2+2={2+2}</P>
     </div>;
 }
